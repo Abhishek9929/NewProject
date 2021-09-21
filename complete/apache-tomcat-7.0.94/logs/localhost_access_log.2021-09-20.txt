@@ -28,3 +28,13 @@
 27.7.162.221 - - [20/Sep/2021:19:45:06 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
 27.7.162.221 - tomcat [20/Sep/2021:19:45:09 +0000] "GET /manager/html HTTP/1.1" 200 16036
 27.7.162.221 - - [20/Sep/2021:19:45:10 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+107.189.3.183 - - [20/Sep/2021:19:47:39 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+107.189.3.183 - - [20/Sep/2021:19:54:16 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+192.241.139.71 - - [20/Sep/2021:19:55:13 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+107.189.3.183 - - [20/Sep/2021:19:58:55 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+192.241.139.71 - - [20/Sep/2021:19:58:55 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+192.241.139.71 - - [20/Sep/2021:20:03:08 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+107.189.3.183 - - [20/Sep/2021:20:05:15 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+192.241.139.71 - - [20/Sep/2021:20:07:12 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+107.189.3.183 - - [20/Sep/2021:20:09:42 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+192.241.139.71 - - [20/Sep/2021:20:11:12 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070

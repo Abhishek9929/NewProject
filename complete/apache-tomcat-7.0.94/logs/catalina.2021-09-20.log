@@ -162,3 +162,17 @@ Sep 20, 2021 7:43:30 PM org.apache.coyote.AbstractProtocol start
 INFO: Starting ProtocolHandler ["ajp-bio-8009"]
 Sep 20, 2021 7:43:30 PM org.apache.catalina.startup.Catalina start
 INFO: Server startup in 1499 ms
+Sep 20, 2021 8:13:53 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8088"]
+Sep 20, 2021 8:13:53 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Sep 20, 2021 8:13:53 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Sep 20, 2021 8:13:53 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8088"]
+Sep 20, 2021 8:13:53 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Sep 20, 2021 8:13:53 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8088"]
+Sep 20, 2021 8:13:53 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

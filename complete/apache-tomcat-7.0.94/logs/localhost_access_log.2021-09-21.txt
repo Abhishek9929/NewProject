@@ -5,3 +5,5 @@
 107.189.3.183 - - [21/Sep/2021:05:42:55 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
 188.166.232.31 - - [21/Sep/2021:05:45:15 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
 107.189.3.183 - - [21/Sep/2021:05:50:19 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+107.189.3.183 - - [21/Sep/2021:06:01:22 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
+51.15.189.176 - - [21/Sep/2021:06:03:03 +0000] "POST /ws/v1/cluster/apps/new-application HTTP/1.1" 404 1070
